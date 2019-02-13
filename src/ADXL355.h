@@ -1,6 +1,8 @@
 #ifndef _ADXL355_H
 #define _ADXL355_H
 
+#include <stdint.h>
+
 class ADXL355
 {
 private:
